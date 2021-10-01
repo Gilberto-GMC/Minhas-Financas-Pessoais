@@ -1,4 +1,4 @@
-# Minhas Finanças Pessoais
+# Minhas Finanças Pessoais - Projeto Desenvolvido para o curso de ADS - FATEC - Ferraz de Vasconcelos
 
 O aplicativo para ajudar os usuários a gerenciar suas finanças pessoais.
 
